@@ -1,4 +1,4 @@
-
+### Hi, I'm Sedtha, a third-year Data Science student at the Institute of Technology of Cambodia.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Sedtha Mao](https://www.facebook.com/Sedtha019?mibextid=ZbWKwL)) 
 
