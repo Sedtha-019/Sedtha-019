@@ -1,5 +1,39 @@
 # 💫 About Me:
-## About Me<br>Hi, I'm Sedtha, a data enthusiast and aspiring Data Analyst/Data Scientist based at the Institute of Technology of Cambodia. With a strong passion for turning data into actionable insights, I enjoy working on projects that involve solving real-world problems through data analysis and machine learning.<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="480" height="480">
+</div>
+
+# Hello, I'm Sedtha! 👋 
+
+
+💻 **Data Scientist | Machine Learning Enthusiast | Computer Vision Explorer**  
+🎓 **Student at the Institute of Technology of Cambodia**  
+🔍 **Passionate about uncovering insights through data and building intelligent ML models.**
+
+## 🚀 What Drives Me?
+- **Curiosity**: I love exploring patterns and trends in data.  
+- **Problem-solving**: Turning data into innovative solutions motivates me every day.  
+- **Continuous Learning**: I thrive on learning the latest ML and CV techniques.  
+
+## 💼 My Focus Areas:
+- **Machine Learning:** Model development & optimization  
+- **Computer Vision:** Image classification, face recognition, and object detection  
+- **Deep Learning:** Neural networks (CNNs, RNNs, and transformers)  
+- **Data Analysis:** Cleaning, preprocessing, and visualizing datasets  
+- **Tools & Languages:** Python, TensorFlow, Keras, OpenCV, Pandas, Matplotlib, and more.  
+
+## 📈 Featured Projects:
+- 🔥 **Face Recognition with CNNs**: Developing a TensorFlow-based model to recognize faces.  
+- 🏆 **Object Detection in Real-Time**: Using YOLO and OpenCV to detect objects on live video feeds.  
+- 🖼️ **Image Classification for Wildlife Conservation**: Building models to identify endangered species in camera trap images.  
+- 📊 **Predictive Analytics**: Forecasted sales trends using time-series models.
+
+I enjoy collaborating on **data science and computer vision projects** that push the boundaries of what's possible with AI. If you're working on something exciting, let's connect!
+
+🌱 **Currently Learning**: Transformer models for vision and NLP tasks.  
+💬 **Let’s Chat**: Feel free to reach out for discussions, ideas, or collaboration opportunities.
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
