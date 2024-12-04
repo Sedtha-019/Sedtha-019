@@ -31,7 +31,7 @@
 
 I enjoy collaborating on **data science and computer vision projects** that push the boundaries of what's possible with AI. If you're working on something exciting, let's connect!
 
-🌱 **Currently Learning**: Transformer models for vision and NLP tasks.  
+🌱 **Currently Learning**: Transformer models for vision tasks.  
 💬 **Let’s Chat**: Feel free to reach out for discussions, ideas, or collaboration opportunities.
 
 
