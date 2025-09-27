@@ -20,7 +20,8 @@
 - **Machine Learning:** Model development & optimization  
 - **Computer Vision:** Image classification, face recognition, and object detection  
 - **Deep Learning:** Neural networks (CNNs, RNNs, and transformers)  
-- **Data Analysis:** Cleaning, preprocessing, and visualizing datasets  
+- **Data Analysis:** Cleaning, preprocessing, and visualizing datasets
+- **Data and Cloud Engineer:** Building ETL pipeline for large scale data 
 - **Tools & Languages:** Python, TensorFlow, Keras, OpenCV, Pandas, Matplotlib, and more.  
 
 ## 📈 Featured Projects:
