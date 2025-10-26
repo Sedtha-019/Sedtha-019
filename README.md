@@ -14,9 +14,9 @@ Student at the **Institute of Technology of Cambodia**
 
 ## About Me
 I am a data-driven professional passionate about designing intelligent systems, building scalable data pipelines, and extracting actionable insights from complex datasets.  
-My work bridges **machine learning**, **data engineering**, and **computer vision**, with a strong focus on applying AI to real-world challenges.
+My work bridges **machine learning**, **data engineering**, and **computer vision**, with a strong focus on applying AI to real world challenges.
 
-I enjoy transforming raw data into deployable solutions — from training deep learning models to automating workflows in distributed environments.
+I enjoy transforming raw data into deployable solutions from training deep learning models to automating workflows in distributed environments.
 
 ---
 
