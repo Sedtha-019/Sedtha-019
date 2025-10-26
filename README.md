@@ -13,7 +13,7 @@ Student at the **Institute of Technology of Cambodia**
 ---
 
 ## About Me
-I am a data-driven professional passionate about designing intelligent systems, building scalable data pipelines, and extracting actionable insights from complex datasets.  
+I am a data driven professional passionate about designing intelligent systems, building scalable data pipelines, and extracting actionable insights from complex datasets.  
 My work bridges **machine learning**, **data engineering**, and **computer vision**, with a strong focus on applying AI to real world challenges.
 
 I enjoy transforming raw data into deployable solutions from training deep learning models to automating workflows in distributed environments.
@@ -55,9 +55,6 @@ I enjoy transforming raw data into deployable solutions from training deep learn
 
 - **Fire and Smoke Detection System:**  
   Built an AI-powered safety solution using **PyTorch** and **OpenCV** for early-stage fire and smoke detection.  
-
-- **Tourism Data Dashboard:**  
-  Automated data collection and developed an interactive **Power BI dashboard** to visualize tourism trends in Cambodia.  
 
 - **Predictive Analytics:**  
   Designed time-series models to forecast sales trends and support business decision-making.  
