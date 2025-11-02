@@ -44,14 +44,14 @@ I enjoy transforming raw data into deployable solutions from training deep learn
 
 ##  Featured Projects
 
-- **Scalable ETL Pipeline (Thesis Project):**  
+- **Scalable ETL Pipeline:**  
   Designed and built a distributed data pipeline using **Docker**, **Airflow**, **Dask**, and **PySpark** to process large datasets from **AWS S3**, with results visualized in **Metabase**.  
 
 - **Face Recognition with CNNs:**  
   Developed a **TensorFlow-based model** for real-time facial recognition integrated into a **Flask web interface**.  
 
 - **Real-Time Object Detection:**  
-  Implemented object detection on live video feeds using **YOLO**, **Faster R-CNN**, and **OpenCV**.  
+  Implemented object detection on live video feeds using **YOLO**, **Faster R-CNN**, **SSD: Single Shot MultiBox Detector**, and **OpenCV**.  
 
 - **Fire and Smoke Detection System:**  
   Built an AI-powered safety solution using **PyTorch** and **OpenCV** for early-stage fire and smoke detection.  
