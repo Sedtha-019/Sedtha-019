@@ -27,7 +27,7 @@ I enjoy transforming raw data into deployable solutions from training deep learn
 - **Computer Vision:** Image classification, object detection, and face recognition  
 - **Data Engineering:** Scalable ETL pipelines, workflow orchestration, and real-time processing  
 - **Data Analysis:** Data cleaning, preprocessing, visualization, and insight generation  
-- **MLOps:** Model deployment, containerization, and CI/CD for ML systems  
+- ~~**MLOps:** Model deployment, containerization, and CI/CD for ML systems~~
 
 ---
 
