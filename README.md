@@ -37,8 +37,8 @@ I enjoy transforming raw data into deployable solutions from training deep learn
 - **ML/DL/CV Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV  
 - **Data Engineering & Big Data:** PySpark, Apache Airflow, Dask, Docker, Docker Compose  
 - **Databases & BI:** PostgreSQL, MySQL, Metabase, Power BI  
-- **Cloud & DevOps:** AWS (S3, EC2), GitHub Actions, Hugging Face Hub  
-- **Others:** Pandas, NumPy, Matplotlib, Seaborn, Flask, Fast API
+- **Cloud:** AWS (S3, EC2) 
+- **Others:**Hugging Face Hub, Pandas, NumPy, Matplotlib, Seaborn, Flask, Fast API
 
 ---
 
