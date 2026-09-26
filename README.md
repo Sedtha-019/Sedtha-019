@@ -47,10 +47,10 @@ My work bridges **LLM engineering**, **machine learning**, **data engineering**,
 
 ## Featured Projects
 
-- **Multi-School AI Assistant (CRAG)** · *company project*
+- **Multi-School AI Assistant (CRAG)** ·
   A bilingual English / Khmer assistant that answers staff questions from their own school's documents, with page citations. It uses a **CRAG-style pipeline**: **hybrid search**, **RRF fusion**, and **reranking**, then an **LLM grader** that retries, falls back, or says "I don't know" rather than guessing. Each school's data is isolated with **PostgreSQL Row-Level Security**, and every query is traced with **Langfuse**. Deployed on **Kubernetes (AWS)** through CI/CD.
 
-- **Hero by Sala: AI Career Platform** · *company project*
+- **AI Career Platform** ·
   An AI career guidance platform for Cambodian students with **pgvector** career matching, AI-generated trial tasks, and **RAG**-powered personalised skill roadmaps.
 
 - **[Autonomous Driving with Deep RL](https://github.com/Sedtha-019/Developing-an-Intelligent-Autonomous-Driving-System-Using-Deep-Reinforcement-Learning-in-the-CARLA-S)**
