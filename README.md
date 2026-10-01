@@ -7,7 +7,7 @@
 # Hello, I'm Sedtha! 👋
 
 **AI Engineer | LLM & RAG Engineer | Machine Learning Engineer**
-AI Engineer at **Sala** · Data Science Engineering at the **Institute of Technology of Cambodia**
+AI Engineer · Data Science Engineering at the **Institute of Technology of Cambodia**
 
 🌐 **Portfolio:** [sedtha-019.github.io/sedtha-portfolio](https://sedtha-019.github.io/sedtha-portfolio/)
 
